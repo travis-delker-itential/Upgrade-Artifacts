@@ -1,0 +1,11 @@
+{
+  "checks": {
+    "baseline": "Cisco NX-OS Nexus9k baseline output\nshow version ...\n",
+    "platform": "Cisco NX-OS Nexus9k platform output\n",
+    "switching": "show vpc brief ...\nshow port-channel summary ...\n",
+    "routing": "",
+    "bgp": "",
+    "bfd": "",
+    "diagnostics": ""
+  }
+}

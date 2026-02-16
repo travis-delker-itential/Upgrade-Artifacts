@@ -1,0 +1,4 @@
+!
+startup-config for NYC-C9K-01
+!
+end

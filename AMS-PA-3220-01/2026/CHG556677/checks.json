@@ -1,0 +1,11 @@
+{
+  "checks": {
+    "baseline": "Palo Alto PAN-OS baseline output\nshow version ...\n",
+    "platform": "Palo Alto PAN-OS platform output\n",
+    "switching": "",
+    "routing": "show routing route ...\n",
+    "bgp": "",
+    "bfd": "",
+    "diagnostics": ""
+  }
+}

@@ -1,0 +1,26 @@
+upgrade-artifacts-sample/
+└── NYC-C9K-01/2026/CHG123456/
+    ├── checks.json
+    └── backups/
+        ├── running-config.txt
+        └── startup-config.txt
+└── NYC-C9K-01/2026/CHG123789/
+    ├── checks.json
+    └── backups/
+        ├── running-config.txt
+        └── startup-config.txt
+└── LON-ISR4K-EDGE1/2026/CHG223344/
+    ├── checks.json
+    └── backups/
+        ├── running-config.txt
+        └── startup-config.txt
+└── SJC-N9K-DC1A/2026/CHG998877/
+    ├── checks.json
+    └── backups/
+        ├── running-config.txt
+        └── startup-config.txt
+└── AMS-PA-3220-01/2026/CHG556677/
+    ├── checks.json
+    └── backups/
+        ├── running-config.txt
+        └── startup-config.txt

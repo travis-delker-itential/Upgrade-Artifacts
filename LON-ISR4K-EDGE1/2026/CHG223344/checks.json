@@ -1,0 +1,11 @@
+{
+  "checks": {
+    "baseline": "Cisco IOS-XE ISR4k baseline output\nshow version ...\n",
+    "platform": "Cisco IOS-XE ISR4k platform output\n",
+    "switching": "",
+    "routing": "show ip route summary ...\n",
+    "bgp": "show ip bgp summary ...\n",
+    "bfd": "",
+    "diagnostics": ""
+  }
+}

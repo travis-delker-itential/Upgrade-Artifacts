@@ -1,0 +1,4 @@
+!
+startup-config for AMS-PA-3220-01
+!
+end

@@ -1,0 +1,11 @@
+{
+  "checks": {
+    "baseline": "Cisco IOS-XE Catalyst9k baseline output\nshow version ...\n",
+    "platform": "Cisco IOS-XE Catalyst9k platform output\n",
+    "switching": "show spanning-tree summary ...\nshow etherchannel summary ...\n",
+    "routing": "",
+    "bgp": "",
+    "bfd": "",
+    "diagnostics": ""
+  }
+}

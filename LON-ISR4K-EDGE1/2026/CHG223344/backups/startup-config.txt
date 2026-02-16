@@ -1,0 +1,4 @@
+!
+startup-config for LON-ISR4K-EDGE1
+!
+end
